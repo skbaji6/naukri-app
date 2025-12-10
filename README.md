@@ -19,7 +19,7 @@ In order to use this, you need Git, Python 3, and Google Chrome on your machine.
 Install [Python 3.10+](https://www.python.org/getit/) and run the below commands
 
 ```bash
-git clone https://github.com/navchandar/Naukri.git
+git clone https://github.com/skbaji6/naukri-app
 cd Naukri
 pip install --upgrade pip
 python3 -m venv .venv              # create virtual environment for installing dependencies
